@@ -31,8 +31,14 @@ a unique character string.
 https://practical365.com/security/reporting-office-365-admin-role-group-members
 
 .NOTES
-Written by Paul Cunningham
-For more Office 365 tips, tutorials and news check out Practical365.com.
+Written by: Paul Cunningham
+
+Find me on:
+
+* My Blog:	https://paulcunningham.me
+* Twitter:	https://twitter.com/paulcunningham
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
+* Github:	https://github.com/cunninghamp
 
 Version history:
 V1.00, 17/04/2017 - Initial version
